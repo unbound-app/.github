@@ -1,4 +1,4 @@
-![Banner](https://github.com/unbound-mod/assets/blob/main/banner/banner.png?raw=true)
+![Banner](https://assets.unbound.rip/banner/banner.png)
 
 ---
 
