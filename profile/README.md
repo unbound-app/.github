@@ -1,10 +1,5 @@
-![Banner](https://assets.unbound.rip/banner/banner.png)
-
----
-
-<h3 align='center'>
-   Unbound
-</h3>
 <p align='center'>
-   Discord mobile client aimed at providing the user control, stability and customizability.
+   This organization is discontinued in favor of our monorepo.
+   <br />
+   Please visit <a href='https://github.com/marioparaschiv/unbound'>marioparaschiv/unbound</a>.
 </p>
